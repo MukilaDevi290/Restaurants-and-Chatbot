@@ -2,4 +2,6 @@
  pandas 
  geopy
  folium
- google-generativeai 
+ google-generativeai
+ scikit-learn
+ 
