@@ -1,6 +1,5 @@
  streamlit 
  pandas 
- pickle
- geodesic
+ geopy
  folium
  google-generativeai 
