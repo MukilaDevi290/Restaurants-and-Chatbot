@@ -13,7 +13,7 @@ with open('kmeans_model.pkl', 'rb') as file:
 df = pd.read_csv('Restaurant_data.csv')  # Replace with your actual dataset path
 
 # Set up the Gemini model with the correct API key
-api_key = st.secrets("gemini_api_key")  # Replace with your actual API key
+api_key = "AIzaSyBQYNdW_uJ3sDAmF7zAYd3JgSWNbDB5410" 
 genai.configure(api_key=api_key)
 chef_model = genai.GenerativeModel("gemini-1.5-flash")
 
