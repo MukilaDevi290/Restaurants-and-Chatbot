@@ -68,7 +68,11 @@ Tech Stack
 - **AWS S3, RDS, EC2**  
 - **Pandas, Scikit-learn**  
 - **NLP/Chatbot Frameworks (optional)**  
-- **Folium / Plotly for Maps**  
+- **Folium / Plotly for Maps**
+
+<img width="1512" alt="Screenshot 2025-06-27 at 11 33 32 PM" src="https://github.com/user-attachments/assets/6abea824-5866-480f-acf5-e27e9bbaab53" />
+<img width="1512" alt="Screenshot 2025-06-27 at 11 34 13 PM" src="https://github.com/user-attachments/assets/02473893-3990-448f-9dd8-ee059be1526c" />
+
 
 
 
